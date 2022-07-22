@@ -5,3 +5,5 @@ I'm a Full Stack Development student from Turkey.
 Currently studying JavaScript.
 
 **Languages:** HTML - CSS JavaScript
+
+**Tech:** Git, GitFlow, Github, Jest, Webpack
