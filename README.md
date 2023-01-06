@@ -1,8 +1,6 @@
 <div style = "display: flex; align-items: center; justify-content: space-between">
-<div>
-<p><strong>Hello</strong> <br> My name is Bengi <br> I'm a Full Stack Developer from Turkey <br> I try to read and improve my skills in my free time. <br> And I love getting my hands dirty in the kitchen or <br> garden when I’m not working. </p>
-</div>
-<img alt="#" src="reading-book.png">
+  <p><strong>Hello</strong> <br> My name is Bengi <br> I'm a Full Stack Developer from Turkey <br> I try to read and improve my skills in my free time. <br> And I love getting my hands dirty in the kitchen or <br> garden when I’m not working. </p>
+  <img alt="#" src="reading-book.png">
 </div>
 <br>
 <br>
