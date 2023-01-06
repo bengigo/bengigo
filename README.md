@@ -8,9 +8,9 @@
 <br>
 
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=bengigo&left_color=green&right_color=blueviolet	)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bengigo&left_color=green&right_color=blueviolet	)
 <br>
-<br> -->
+<br>
 
 
 
