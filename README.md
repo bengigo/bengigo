@@ -13,12 +13,6 @@
 <br>
 
 
-
-![](https://komarev.com/ghpvc/?username=bengigo&color=blueviolet	)
-<br>
-<br>
-
-
 <!-- <img alt="" src="https://github-readme-stats.vercel.app/api?username=bengigo&show_icons=true&theme=cobalt"> -->
 
 <!-- ![Bengi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengigo&show_icons=true&theme=cobalt) -->
