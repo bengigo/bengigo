@@ -5,24 +5,17 @@
 <br>
 <br>
 
-
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bengigo&left_color=green&right_color=blueviolet	)
 <br>
 <br>
-
-
-<!-- <img alt="" src="https://github-readme-stats.vercel.app/api?username=bengigo&show_icons=true&theme=cobalt"> -->
 
 ![Bengi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengigo&show_icons=true&theme=cobalt)
 <br>
 <br>
 
-<!-- <img alt="#" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengigo&theme=cobalt&layout=compact"> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengigo&theme=cobalt&layout=compact)](https://github.com/bengigo/github-readme-stats)
 <br>
 <br>
-
 
 <div style="list-style: none; display: flex; align-items: center">
 <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -38,3 +31,8 @@
 <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
+<br>
+<br>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bengican)
+
