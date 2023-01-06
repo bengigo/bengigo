@@ -1,9 +1,10 @@
 <div style = "display: flex; align-items: center; justify-content: space-between">
+  <img align="right" alt="#" src="reading-book.png">
   <p><strong>Hello</strong> <br> My name is Bengi <br> I'm a Full Stack Developer from Turkey <br> I try to read and improve my skills in my free time. <br> And I love getting my hands dirty in the kitchen or <br> garden when I’m not working. </p>
-  <img alt="#" src="reading-book.png">
 </div>
 <br>
 <br>
+
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bengigo&left_color=green&right_color=blueviolet	)
@@ -13,12 +14,12 @@
 
 <!-- <img alt="" src="https://github-readme-stats.vercel.app/api?username=bengigo&show_icons=true&theme=cobalt"> -->
 
-<!-- ![Bengi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengigo&show_icons=true&theme=cobalt) -->
+![Bengi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengigo&show_icons=true&theme=cobalt)
 <br>
 <br>
 
 <!-- <img alt="#" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bengigo&theme=cobalt&layout=compact"> -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengigo&theme=cobalt&layout=compact)](https://github.com/bengigo/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bengigo&theme=cobalt&layout=compact)](https://github.com/bengigo/github-readme-stats)
 <br>
 <br>
 
