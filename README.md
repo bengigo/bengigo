@@ -9,11 +9,11 @@
 <br>
 <br>
 
-![Bengi's GitHub stats](https://github-readme-stats-bengigo.vercel.app/api?username=bengigo&show_icons=true&theme=cobalt)
+![Bengi's GitHub stats](https://github-readme-stats-5aab-git-master-bengigo.vercel.app/api?username=bengigo&show_icons=true&theme=cobalt)
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats-bengigo.vercel.app/api/top-langs/?username=bengigo&theme=cobalt&layout=compact)](https://github.com/bengigo/github-readme-stats)
+[![Top Langs](https://github-readme-stats-5aab-git-master-bengigo.vercel.app/api/top-langs/?username=bengigo&theme=cobalt&layout=compact)](https://github.com/bengigo/github-readme-stats)
 <br>
 <br>
 
